@@ -20,7 +20,7 @@ class Buffer:
         # добавлены
 ```
 Пример работы с классом
-
+ 
 ```python
 buf = Buffer()
 buf.add(1, 2, 3)

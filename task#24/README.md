@@ -6,7 +6,7 @@
 `[{"name": "A", "parents": []}, {"name": "B", "parents": ["A", "C"]}, {"name": "C", "parents": ["A"]}]`
 
 ﻿Эквивалент на Python:
-
+ 
 ```python
 class A:
     pass

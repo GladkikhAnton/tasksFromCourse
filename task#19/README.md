@@ -15,7 +15,7 @@
 <a href="ya.ru">
 <a href="www.ya.ru">
 <a href="../skip_relative_links">
-```
+``` 
 
 Пример ответа:
 
